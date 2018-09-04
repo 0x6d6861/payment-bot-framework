@@ -15,7 +15,7 @@ npm run server # To run the web authentication endpoints
 **Usage**
 
 You are ready to setup the Bot Framework, everythin should run with the default settings otherwise the settup seting will be logged in the terminal.
-You can start off with the provided users bellow, make note of the passwords.
+You can start off with the provided users bellow, make note of the passwords. If asked about PIN just use **4444**
 ```javascript
 [
     { name: 'Heri', email: "agape@live.fr", password: "password1"}, 
