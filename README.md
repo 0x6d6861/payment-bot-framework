@@ -6,7 +6,7 @@ Before anything, you need to have **Microsoft Bot Framework Emulator** installed
 
 **Set up**
 ```bash
-git clone https://github.com/heriagape/bot-framework.git
+git clone https://github.com/heriagape/payment-bot-framework.git
 cd bot-framework && npm install # Install app dependencies
 npm start # To run the bot framework server
 npm run server # To run the web authentication endpoints
